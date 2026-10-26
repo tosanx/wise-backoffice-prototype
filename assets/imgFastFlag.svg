@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Fast flag">
+<mask id="mask0_0_1092" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="2" width="14" height="13">
+<path id="Vector" d="M1.25 10.1861L4.89971 5.89265H4.89862L2.68006 2H14.75L10.0782 14.9166H7.4308L11.2999 4.20024H6.30893L7.41873 6.12227L7.41327 6.17527L5.70687 8.16133H8.499L7.7664 10.1861H1.25Z" fill="#FF00FF"/>
+</mask>
+<g mask="url(#mask0_0_1092)">
+<path id="Color" d="M0 0H16V16H0V0Z" fill="#163300"/>
+</g>
+</g>
+</svg>

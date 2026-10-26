@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Edit">
+<mask id="mask0_0_903" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="1" width="12" height="12">
+<path id="Vector" d="M9.16247 3.32915C9.57903 2.91262 10.2543 2.91262 10.6709 3.32915C11.0874 3.74567 11.0874 4.421 10.6709 4.83752L10.2083 5.30004L8.69995 3.79167L9.16247 3.32915ZM7.875 4.61662L2.91667 9.57495V11.0833H4.42504L9.38338 6.125L7.875 4.61662ZM11.4958 2.50419C10.6237 1.63205 9.20967 1.63205 8.33752 2.50419L1.92256 8.91917C1.81208 9.02965 1.75 9.17951 1.75 9.33573V11.6608C1.75 11.9862 2.01378 12.25 2.33917 12.25H4.66425C4.82058 12.25 4.97041 12.1879 5.08086 12.0775L11.4958 5.66248C12.3679 4.79034 12.3679 3.37633 11.4958 2.50419Z" fill-rule="evenodd" clip-rule="evenodd" fill="black"/>
+</mask>
+<g mask="url(#mask0_0_903)">
+<rect id="Color" width="14" height="14" fill="#0E0F0C"/>
+</g>
+</g>
+</svg>
